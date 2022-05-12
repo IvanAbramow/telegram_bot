@@ -1,6 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
 const {gameOptions, againOptions} = require('./options');
-const request = require('request');
 
 // replace the value below with the Telegram token you receive from @BotFather
 const token = '5305499568:AAHiWoeSoz2kugSSFSOqwfSbPeBPhjbcTLw';
